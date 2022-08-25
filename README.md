@@ -1,16 +1,22 @@
-# todolist_app
+# To do List
 
-A new Flutter project.
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/jusylopes/flutter-todo-list/blob/main/LICENSE) 
 
-## Getting Started
+## Sobre o projeto
 
-This project is a starting point for a Flutter application.
+Lista de tarefas simples desenvolvida em Flutter com Provider.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Layout mobile
+![Mobile 1](https://github.com/jusylopes/flutter-todo-list/blob/main/assets/images/Screenshot_1661350623.png) ![Mobile 2](https://github.com/jusylopes/flutter-todo-list/blob/main/assets/images/Screenshot_1661350807.png) ![Mobile 3](https://github.com/jusylopes/flutter-todo-list/blob/main/assets/images/Screenshot_1661350813.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Tecnologias utilizadas
+
+* Flutter
+* Provider
+
+
+### Desenvolvedora
+
+Jusy Lopes
+https://www.linkedin.com/in/jusylopes

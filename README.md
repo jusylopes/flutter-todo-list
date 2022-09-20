@@ -1,4 +1,4 @@
-# To do List
+# 📒 To do List
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/jusylopes/flutter-todo-list/blob/main/LICENSE) 
 
@@ -8,7 +8,11 @@ Lista de tarefas simples desenvolvida em Flutter com Provider.
 
 
 ## Layout mobile
-![Mobile 1](https://github.com/jusylopes/flutter-todo-list/blob/main/assets/images/Screenshot_1661350623.png) ![Mobile 2](https://github.com/jusylopes/flutter-todo-list/blob/main/assets/images/Screenshot_1661350807.png) ![Mobile 3](https://github.com/jusylopes/flutter-todo-list/blob/main/assets/images/Screenshot_1661350813.png)
+<p>
+<img src="screenshots/Screenshot_1663674874.png" width="25%">
+<img src="screenshots/Screenshot_1663674880.png" width="25%">
+<img src="screenshots/Screenshot_1663674884.png" width="25%">
+</p>
 
 ### Tecnologias utilizadas
 
